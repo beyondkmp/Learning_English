@@ -1,5 +1,23 @@
 # Learning_English
+
 starting to level up english
+
+## Read
+
+### books
+
+#### computer
+1.
+
+#### life
+
+1.
+
+## Write
+
+## 语法
+
+## 发音
 
 ## References
 1. [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)
